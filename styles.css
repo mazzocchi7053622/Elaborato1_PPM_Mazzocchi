@@ -204,6 +204,7 @@
 	margin: 0 auto;
 }
 .breaking_news__title {
+	margin-bottom: 0.5rem;
 	background-color: yellow;
 	font-weight: 700;
 	width: 100%;
